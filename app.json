@@ -1,0 +1,22 @@
+{
+  "name": "GeoLocationWheater",
+  "displayName": "GeoLocationWheater",
+  "expo": {
+    "name": "GeoLocationWheater",
+    "slug": "GeoLocationWheater",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "permissions": [
+        "ACCESS_FINE_LOCATION"
+      ]
+    }
+  }
+}
