@@ -69,3 +69,5 @@ ios/
 
 # test
 __tests__/
+
+yarn.lock
